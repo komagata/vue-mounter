@@ -1,0 +1,18 @@
+{
+  "name": "vue-mounter",
+  "version": "2.0.0",
+  "description": "Vue component mount on div.",
+  "type": "module",
+  "main": "lib/VueMounter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Masaki Komagata",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "~2"
+  }
+}
